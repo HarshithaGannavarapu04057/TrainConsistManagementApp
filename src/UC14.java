@@ -1,6 +1,5 @@
 import java.util.*;
-
-public class UseCase14TrainConsistMgmnt {
+class UseCase14TrainConsistMgmnt {
 
     // ---- CUSTOM EXCEPTION ----
     static class InvalidCapacityException extends Exception {
